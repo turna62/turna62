@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lamia Alam. I'm intrested in web development. I have full stack knowledge. I've completed projects to create responsive and user-friendly websites. I look forward to contributing to more projects.
+I'm Lamia Alam. I'm intrested in web development. I have full stack development knowledge. I've completed projects to create responsive and user-friendly websites. I look forward to contributing to more projects.
 
 📫 How to reach me: lamiaalam@iut-dhaka.edu
 
