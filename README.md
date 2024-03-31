@@ -6,7 +6,7 @@ I'm Lamia Alam. I'm intrested in web development. I have full stack development 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turna62&layout=compact)
 
-![Lamia Alam's GitHub stats](https://github-readme-stats.vercel.app/api?username=turna62&show_icons=true)
+![Lamia Alam's GitHub stats](https://github-readme-stats.vercel.app/api?username=turna62&hide=stars,prs&show_icons=true)
 
 
 <!--
