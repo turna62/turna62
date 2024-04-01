@@ -5,7 +5,6 @@ I'm Lamia Alam. I'm intrested in web development. I have full stack development 
 
 📫 How to reach me: lamiaalam@iut-dhaka.edu
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
